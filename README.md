@@ -8,11 +8,10 @@ LINK  : https://hokiciki.org/W30eZ
 
 
 #CARA INSTALL
-#pkg update&pkg upgarade
-#pkg install git
-#pkg install python2
-#git clone git clone https://github.com/MARA345/DarkM2
-#cd DarkM2
-#python2 Dark-m2.py
-
-#DONE
+#PKG UPDATE & PKG UPGRADE
+#PKG INSTALL PYTHON2
+#PKG INSTALL GIT
+#GIT CLONE https://github.com/MARA345/DarkM2
+#CD DARK-M2
+#PYTHON2 DARK-M2.PY
+#Doneee 
